@@ -17,3 +17,15 @@ This system follows a **two-stage approach** where a **text detection model** fi
   <p align="center">
   <img src="images/results-text-recognition.png" width="350"/>
   </p>
+
+## Final Results
+
+  <table align="center">
+  <tr>
+  <tr>
+  <td><img src="images/final-output-01.png" width="600"/></td>
+  </tr>
+  <tr>
+  <td><img src="images/final-output-02.png" width="600"/></td>
+  </tr>
+  </table>
